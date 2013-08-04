@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="EDIT COSTUMER DETAILS" >
+        <EditTextPreference 
+            	android:title="Costumer Name" 
+            	android:summary="Click here to edit" 
+            	android:key="name"/>
+        <EditTextPreference 
+            	android:title="Costumer Address" 
+            	android:summary="Click here to edit" 
+            	android:key="address"/>
+        <EditTextPreference 
+            	android:title="Costumer Number" 
+            	android:summary="Click here to edit" 
+            	android:key="number"/>
+    </PreferenceCategory>
+    
+  
+
+</PreferenceScreen>
