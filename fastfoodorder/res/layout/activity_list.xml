@@ -39,8 +39,7 @@
         android:layout_above="@+id/lay_itemcontainer"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/horizontalScrollView1"
-        android:layout_marginTop="30dp"
-        android:="" >
+        android:layout_marginTop="30dp">
 
     </ListView>
 
